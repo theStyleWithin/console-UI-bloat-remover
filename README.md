@@ -34,6 +34,16 @@ Account & Online
 
 [Apply]  [Back]
 
+Update Prompts
+────────────────────────────
+[ON]  Block System Update Prompts
+[ON]  Block Game Update Prompts
+
+Note: This only stops the nag screens.
+It does not prevent manual updates.
+
+[Apply]  [Back]
+
 Language Filters
 ────────────────────────────
 [OFF] Disable System Language Filters
