@@ -29,8 +29,6 @@ Account & Online
 ────────────────────────────
 [ON]  Disable Forced Account Sign-in
 [ON]  Skip Account Linking Prompts
-[OFF] Block Background Online Checks
-[OFF] Disable Error Reporting / Telemetry
 
 [Apply]  [Back]
 
