@@ -1,0 +1,31 @@
+Phase 1 – Research & Feasibility (Per confirmed platform)
+
+Map how the system menu, storefront, account system, and language filters work on each target
+Identify existing homebrew, plugins, or patches that already touch these areas
+Determine the cleanest technical approach (sysmodule, plugin, theme replacement, config edit, etc.)
+Note any major blockers or high-risk areas
+
+Phase 2 – Architecture & Design
+
+Decide overall structure (one multi-platform tool vs separate tools per console)
+Design the modular feature set and config system
+Decide how users will enable/disable each feature
+Plan safety / reversibility measures
+
+Phase 3 – Prototype (First platform only)
+
+Build a minimal working version on the highest-priority console you own
+Focus first on the easiest wins (e.g. hiding store tiles or disabling one major nag)
+Get basic language filter bypass working if feasible
+
+Phase 4 – Expansion & Polish
+
+Add remaining features on the first platform
+Port the approach to the next confirmed console
+Improve UI, documentation, and stability
+
+Phase 5 – Release Prep
+
+Write clear install/uninstall instructions
+Add safety warnings
+Prepare a public repo structure
